@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinav262k
-- 👀 I’m interested in Developing 
-- 🌱 I’m currently learning Full stack Webdevelopment
+- 👀 I’m interested in Web Development
+- 🌱 I completed my Full stack Webdevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
